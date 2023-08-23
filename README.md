@@ -1,16 +1,17 @@
-### Hi there 👋
+### 🔗 About Me
 
-<!--
-**giolivribeiro/giolivribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Giovanna, a 19 year old software engeneering from São Paulo, Brasil.
 
-Here are some ideas to get you started:
+Currently, I am a graduate student in Software Engeneering at UNISA (Universidade Santo Amaro).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+User interface designer who is also passionate about front-end development.
+
+### Technologies
+
+- Front-end Development with HTML, CSS, JavaScript, React and Tailwind.
+- User Interface Design with Figma.
+
+### Contact Me
+
+- <a href="https://www.linkedin.com/in/giovannaoribeiro/">LinkedIn</a>
+- <a href="mailto:giovannaoribeiro@outlook.com">Email</a>
